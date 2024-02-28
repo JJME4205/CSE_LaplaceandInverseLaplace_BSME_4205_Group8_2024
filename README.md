@@ -5,3 +5,6 @@ This is  for Laboratory 1 in CSE
 ![ATIENZA_PART2_2](https://github.com/JJME4205/CSE_LaplaceandInverseLaplace_BSME_4205_Group8_2024/assets/159040752/d8152c80-8095-4ea3-979e-f3831f706fc7)
 ![ANDAL JANELLA MAE D _Part II_#3](https://github.com/JJME4205/CSE_LaplaceandInverseLaplace_BSME_4205_Group8_2024/assets/159086810/1b1a5920-5fcb-4f74-b5ba-68bc30950c60)
 ![ANDAL JANELLA MAE D _Part III_#1](https://github.com/JJME4205/CSE_LaplaceandInverseLaplace_BSME_4205_Group8_2024/assets/159086810/00670d06-8321-415a-b863-bc3b18a9791a)
+![Uploading 423147691_433475085674457_8408642192169857314_n.jpg…]()
+![MENDOZA JUSTINE JOSHUA L PART III #2](https://github.com/JJME4205/CSE_LaplaceandInverseLaplace_BSME_4205_Group8_2024/assets/159037171/50b546fe-08be-4fcf-9016-14bf63b323b0)
+![MENDOZA JUSTINE JOSHUA L PART III #3](https://github.com/JJME4205/CSE_LaplaceandInverseLaplace_BSME_4205_Group8_2024/assets/159037171/5410d4d1-c87d-444d-93d4-05bab058c1ea)
